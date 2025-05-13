@@ -11,5 +11,7 @@ In this directory, I am introduced to Supervisioned Learning applied to 2 projec
     - Standardizing values to a same scale
     - LabelEncoder and OneHotEncoder to treat cathegorical variables
     - Training and Testing data base spliting
+ 
+- Bayesian Learning
 
 ### proximo 
