@@ -1,4 +1,4 @@
-# machine_learning_studies
+# My Machine Learning Studies
 
 ### supervisioned_learning folder
 In this directory, I am introduced to Supervisioned Learning, exploring pre processing, classification, regression, association rules, clustering and other complementary topics.
