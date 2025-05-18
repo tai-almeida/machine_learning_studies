@@ -11,9 +11,9 @@ Throughout this process, i go through the following main topics:
     - Training and Testing data base spliting
  
 **Model training by Classification:** 
-I apply different classification technics into 2 projects:
-    1: Prediction of whether or not a person will pay back their loan debt
-    2: model to predict if someone makes above or bellow 50K a year
+I apply different classification technics into 2 projects:  
+- Credit: Prediction of whether or not a person will pay back their loan debt  
+- Census: model to predict if someone makes above or bellow 50K a year  
 
 The technichs explored on the process were:  
 - Bayesian Learning  
