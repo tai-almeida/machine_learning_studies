@@ -15,11 +15,11 @@ I apply different classification technics into 2 projects:
     1: Prediction of whether or not a person will pay back their loan debt
     2: model to predict if someone makes above or bellow 50K a year
 
-The technichs explored on the process were:
-    - Bayesian Learning
-    - Decision trees and Random Forest
-    - Rule learning
-    - kNN algorithms
-    - 
+The technichs explored on the process were:  
+    - Bayesian Learning  
+    - Decision trees and Random Forest  
+    - Rule learning  
+    - kNN algorithms  
+    -   
 
 ### proximo 
