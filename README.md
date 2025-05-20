@@ -20,6 +20,8 @@ The technichs explored on the process were:
 - Decision trees and Random Forest  
 - Rule learning  
 - kNN algorithms  
--   
+- Logistic Regression
+- Supported Vector Machines (SVM)
+- 
 
 ### proximo 
