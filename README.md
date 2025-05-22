@@ -22,6 +22,7 @@ The technichs explored on the process were:
 - kNN algorithms  
 - Logistic Regression
 - Supported Vector Machines (SVM)
+- Neural networks  
 - 
 
 ### proximo 
